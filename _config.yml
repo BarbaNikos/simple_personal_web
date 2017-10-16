@@ -1,0 +1,25 @@
+# My variables
+name: Your Name
+description: Personal website and Micro-blog
+google_verification: null
+
+mybaseurl: ""
+myurl: ""
+baseurl: ""
+
+# File management
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE"]
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge

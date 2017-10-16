@@ -1,0 +1,3 @@
+- name: SomeProject
+  category: some-project-category
+  url: https://github.com
