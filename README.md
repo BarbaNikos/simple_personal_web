@@ -7,7 +7,7 @@ and this layout are under MIT License.
 # Set up
 In order to have your website up and running, first you need to update the
 following fields in 
-[_config.yml](https://github.com/NickKatsip/simple_personal_web/_config.yml):
+[_config.yml](https://github.com/NickKatsip/simple_personal_web/blob/master/_config.yml):
 
 * Update the **name** field with your name.
 * Update the **description** field with a sample description
